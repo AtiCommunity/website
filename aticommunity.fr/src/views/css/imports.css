@@ -1,0 +1,18 @@
+@import url("https://fonts.googleapis.com/css2?family=Akronim&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Comfortaa&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=KoHo&display=swap");
+
+:root {
+}
+
+.akronim {
+  font-family: Akronim, Arial, Helvetica, sans-serif;
+}
+
+.comfortaa {
+  font-family: Comfortaa, Arial, Helvetica, sans-serif;
+}
+
+.koho {
+  font-family: Koho, Arial, Helvetica, sans-serif;
+}

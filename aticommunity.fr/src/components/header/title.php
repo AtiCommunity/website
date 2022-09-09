@@ -1,0 +1,1 @@
+<a class="navbar-brand fs-title akronim text-link" href="?action=home">AtiCommunity</a>

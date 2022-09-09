@@ -1,0 +1,1 @@
+<p class="text-center text-uppercase text-yellow fw-bold fs-2">Mon compte</p>

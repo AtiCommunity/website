@@ -1,0 +1,1 @@
+<p class="fs-2 fw-bold text-center text-uppercase text-yellow">Liste de CV</p>

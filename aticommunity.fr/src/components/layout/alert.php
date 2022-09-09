@@ -1,0 +1,1 @@
+<?php if(isset($GLOBALS["alert"]) && $GLOBALS["alert"]->getAlert() !== '') echo $GLOBALS["alert"]->getAlert(); ?>

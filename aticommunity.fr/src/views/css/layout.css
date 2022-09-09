@@ -1,0 +1,33 @@
+/* SCROLLBAR */
+
+/* width */
+::-webkit-scrollbar {
+  width: 5px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  --bs-bg-opacity: 1;
+  background: rgba(var(--bs-dark-rgb), var(--bs-bg-opacity));
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: var(--bs-yellow);
+  border-radius: 2px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #f57f17;
+}
+/* END OF SCROLLBAR */
+
+::selection {
+  background-color: var(--bs-yellow);
+  color: var(--bs-dark);
+}
+
+.select-none {
+  user-select: none;
+}

@@ -1,0 +1,2 @@
+<p class="fs-6 text-center"><em class="fw-bold text-uppercase">Nos partenaires</em></p>
+<p class="fs-6 text-center"><a class="text-link" href="https://teaminfernal.fr/" target="_blank">Infernal</a></p>
