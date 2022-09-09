@@ -16,7 +16,6 @@ require_once(CONTROLLERS."home.php");
 require_once(CONTROLLERS."authentification.php");
 require_once(CONTROLLERS."myAccount.php");
 require_once(CONTROLLERS."jobs.php");
-require_once(CONTROLLERS."addCV.php");
 require_once(CONTROLLERS."calendar.php");
 require_once(CONTROLLERS."addEvent.php");
 require_once(CONTROLLERS."modification.php");
